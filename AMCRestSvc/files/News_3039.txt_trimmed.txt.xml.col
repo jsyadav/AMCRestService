@@ -1,0 +1,14 @@
+1	1	Tesla	Tesla	NNP	ORGANIZATION
+1	2	Motors	Motors	NNPS	ORGANIZATION
+1	3	Inc	Inc	NNP	ORGANIZATION
+1	4	is	be	VBZ	O
+1	5	partnered	partner	VBN	O
+1	6	with	with	IN	O
+1	7	Serendio	Serendio	NNP	ORGANIZATION
+1	8	Inc	Inc	NNP	ORGANIZATION
+1	9	,	,	,	O
+1	10	Santa	Santa	NNP	LOCATION
+1	11	Clara	Clara	NNP	LOCATION
+1	12	.	.	.	O
+
+

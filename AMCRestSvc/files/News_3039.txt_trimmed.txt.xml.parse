@@ -1,0 +1,1 @@
+        <parse>(ROOT (S (NP (NNP Tesla) (NNPS Motors) (NNP Inc)) (VP (VBZ is) (VP (VBN partnered) (PP (IN with) (NP (NP (NNP Serendio) (NNP Inc)) (, ,) (NP (NNP Santa) (NNP Clara)))))) (. .))) </parse>
